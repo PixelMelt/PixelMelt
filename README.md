@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm PixelMelt! 👋🏻
 
-<!--
-**PixelMelt/PixelMelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I throw wrenches into code to see what will happen.
 
-Here are some ideas to get you started:
+- A Bot Framework for the Hit Web Game Bonk.io: [BonkBot](https://github.com/PixelMelt/BonkBot)
+- A Full Re-Creation of Bonk.io's backend server with functioning multiplayer: [BonkServer](https://github.com/PixelMelt/bonk-server)
+- A Discord Desktop Client (BetterDiscord) Theme with 21k+ Downloads: [Spectra](https://github.com/PixelMelt/Spectra)
+- A Userscript + Backend that adds Proximity Voice Chat over WEBRTC to the Web Game Starblast.io: [Starblast-Proximity-Voice-Chat](https://github.com/PixelMelt/starblast-proximity-voice-chat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact me
+
+- [On Discord](https://discords.com/bio/p/pix)
+- [On Github](https://github.com/PixelMelt)
+- [On Matrix](https://matrix.org) (@pixelmelt:matrix.org)
