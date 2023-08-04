@@ -1,25 +1,24 @@
 ![hello!](https://via.placeholder.com/1000x250/181825/a6e3a1?text=Hi,%20I%27m%20PixelMelt%0AI%27m%20a%20Creator&font=roboto)
 
-### $\textcolor{#a6e3a1}{\textsf{17 year old self-taught programmer.}}$
-### $\textcolor{#a6e3a1}{\textsf{Working with javascript and nodejs.}}$
-### $\textcolor{#a6e3a1}{\textsf{Using linux as my main OS since age 9.}}$
-### $\textcolor{#a6e3a1}{\textsf{Well versed in creating and using cli tools.}}$
-### $\textcolor{#a6e3a1}{\textsf{Interested in Large Language Models.}}$
+#### 17 year old self-taught programmer.
+#### Working with javascript and nodejs.
+#### Using linux as my main OS since age 9.
+#### Well versed in creating and using cli tools.
+#### Interested in Large Language Models.
 Online privacy advocate. [Take a look at my TOR relay.](https://metrics.torproject.org/rs.html#details/7FB70F5D870CF5F19E12F33F7CFF6735354F6B4E)
-## $\textcolor{#a6e3a1}{\textsf{Here are some of my creations!}}$
-
+## Here are some of my creations!
 
 - A Bot Framework for the Hit Web Game Bonk.io: [BonkBot](https://github.com/PixelMelt/BonkBot)
 - A Full Re-Creation of Bonk.io's backend server with functioning multiplayer: [BonkServer](https://github.com/PixelMelt/bonk-server)
 - A Discord Desktop Client (BetterDiscord) Theme with 21k+ Downloads: [Spectra](https://github.com/PixelMelt/Spectra)
 - A script that adds Proximity Voice Chat over WEBRTC to the Web Game Starblast.io: [SBPVC](https://github.com/PixelMelt/starblast-proximity-voice-chat)
 
-## $\textcolor{#a6e3a1}{\textsf{Contact me}}$
+## Contact me
 - [On Discord](https://discords.com/bio/p/pix)
 - [On Github](https://github.com/PixelMelt)
 - [On Matrix](https://matrix.org) (@pixelmelt:matrix.org)
 
-## $\textcolor{#a6e3a1}{\textsf{Tools and languages:}}$
+## Tools and languages:
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 </a>
