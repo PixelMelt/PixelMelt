@@ -1,6 +1,6 @@
 ![hello!](https://via.placeholder.com/1000x250/181825/a6e3a1?text=Hi,%20I%27m%20PixelMelt%0AI%27m%20a%20Creator&font=roboto)
 
-#### 17 year old self-taught programmer.
+#### 18 year old self-taught programmer.
 #### Working with javascript and nodejs.
 #### Using linux as my main OS since age 9.
 #### Well versed in creating and using cli tools.
