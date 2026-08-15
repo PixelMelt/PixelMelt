@@ -1,5 +1,3 @@
-![hello!](https://via.placeholder.com/1000x250/181825/a6e3a1?text=Hi,%20I%27m%20PixelMelt%0AI%27m%20a%20Creator&font=roboto)
-
 #### Programmer.
 #### Linux and FOSS software enthusiast.
 #### Interested in Large Language Models.
