@@ -1,7 +1,9 @@
 #### Programmer.
 #### Linux and FOSS software enthusiast.
 #### Interested in Large Language Models.
-Online privacy advocate. [Take a look at my TOR relay.](https://metrics.torproject.org/rs.html#details/7FB70F5D870CF5F19E12F33F7CFF6735354F6B4E)
+Online privacy advocate.
+Check out my [Blog](https://blog.pixelmelt.dev/)
+
 ## Here are some of my creations!
 
 - A Bot Framework for the Hit Web Game Bonk.io: [BonkBot](https://github.com/PixelMelt/BonkBot)
